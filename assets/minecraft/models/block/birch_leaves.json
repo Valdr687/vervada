@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "minecraft:block/birch_leaves",
+    "bottom": "minecraft:block/birch_leaves_bottom",
+    "top": "minecraft:block/birch_leaves_top",
+    "particle": "minecraft:block/birch_leaves"
+  }
+}

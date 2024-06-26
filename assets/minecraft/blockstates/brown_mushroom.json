@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [ 
+{"model": "minecraft:block/plantes/brown_mushroom"},
+{"model": "minecraft:block/plantes/brown_mushroom1"},
+{"model": "minecraft:block/plantes/brown_mushroom2"},
+{"model": "minecraft:block/plantes/brown_mushroom3"},
+{"model": "minecraft:block/plantes/brown_mushroom4"}
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+	"texture": "./textures/sheep.png",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -19, -2],
+			"submodels": [
+				{
+					"id": "rotation",
+					"invertAxis": "xy",
+					"translate": [0, 19, 2],
+					"rotate": [-90, 0, 0],
+					"boxes": [
+						{"coordinates": [-4, -6, -7, 8, 16, 6], "textureOffset": [28, 8]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"rotation.rx": "0"
+				}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -18, 8],
+			"boxes": [
+				{"coordinates": [-3, 16, -14, 6, 6, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-2, 16.025, -14.5, 4, 2, 2], "textureOffset": [22, 2]}
+			],
+			"submodels": [
+				{
+					"id": "oreille",
+					"invertAxis": "xy",
+					"translate": [8.2, 3.6, 0],
+					"rotate": [0, 0, -5],
+					"boxes": [
+						{"coordinates": [-6.7, 15.3, -12, 2, 2, 1], "textureOffset": [41, 3]}
+					]
+				},
+				{
+					"id": "oreille2",
+					"invertAxis": "xy",
+					"translate": [-6.4, 18.9, -12],
+					"rotate": [0, 0, 5],
+					"boxes": [
+						{"coordinates": [1.6, 0, 0, 2, 2, 1], "textureOffset": [32, 3]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3, -12, -7],
+			"boxes": [
+				{"coordinates": [1, 0, 5, 4, 12, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [3, -12, -7],
+			"boxes": [
+				{"coordinates": [-5, 0, 5, 4, 12, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3, -12, 5],
+			"boxes": [
+				{"coordinates": [1, 0, -7, 4, 12, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [3, -12, 5],
+			"boxes": [
+				{"coordinates": [-5, 0, -7, 4, 12, 4], "textureOffset": [0, 16]}
+			]
+		}
+	]
+}

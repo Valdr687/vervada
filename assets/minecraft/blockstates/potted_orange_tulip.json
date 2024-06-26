@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+{"model": "minecraft:block/potted_orange_tulip"},
+{"model": "minecraft:block/potted_orange_tulip", "y":90},
+{"model": "minecraft:block/potted_orange_tulip", "y":180},
+{"model": "minecraft:block/potted_orange_tulip", "y":270},
+{"model": "minecraft:block/potted_orange_tulip45"},
+{"model": "minecraft:block/potted_orange_tulip45", "y":90},
+{"model": "minecraft:block/potted_orange_tulip45", "y":180},
+{"model": "minecraft:block/potted_orange_tulip45", "y":270}
+     ]
+  }
+}

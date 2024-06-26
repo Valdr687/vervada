@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+{"model": "minecraft:block/potted_wither_rose"},
+{"model": "minecraft:block/potted_wither_rose", "y":90},
+{"model": "minecraft:block/potted_wither_rose", "y":180},
+{"model": "minecraft:block/potted_wither_rose", "y":270}
+     ]
+  }
+}

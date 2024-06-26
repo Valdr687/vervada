@@ -1,0 +1,71 @@
+{
+	"credit": "Made with Blockbench by Valdr687",
+	"parent": "minecraft:block/pointed_dripstone",
+	"textures": {
+		"2": "block/dripstone_block",
+		"particle": "block/pointed_dripstone_up_base",
+		"cross": "block/pointed_dripstone_up_base"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 4, 16],
+			"faces": {
+				"north": {"uv": [0, 12, 16, 16], "texture": "#cross"},
+				"east": {"uv": [0, 12, 16, 16], "texture": "#cross"},
+				"south": {"uv": [0, 12, 16, 16], "texture": "#cross"},
+				"west": {"uv": [0, 12, 16, 16], "texture": "#cross"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [0.5, 4, 0.5],
+			"to": [15.5, 5, 15.5],
+			"faces": {
+				"north": {"uv": [0, 11, 15, 12], "texture": "#cross"},
+				"east": {"uv": [0, 11, 15, 12], "texture": "#cross"},
+				"south": {"uv": [0, 11, 15, 12], "texture": "#cross"},
+				"west": {"uv": [0, 11, 15, 12], "texture": "#cross"},
+				"up": {"uv": [0, 0, 15, 15], "texture": "#2"},
+				"down": {"uv": [0, 0, 15, 15], "texture": "#2"}
+			}
+		},
+		{
+			"from": [1, 5, 1],
+			"to": [15, 14, 15],
+			"faces": {
+				"north": {"uv": [1, 2, 15, 11], "texture": "#cross"},
+				"east": {"uv": [1, 2, 15, 11], "texture": "#cross"},
+				"south": {"uv": [1, 2, 15, 11], "texture": "#cross"},
+				"west": {"uv": [1, 2, 15, 11], "texture": "#cross"},
+				"up": {"uv": [1, 0, 15, 14], "texture": "#2"},
+				"down": {"uv": [1, 0, 15, 14], "texture": "#2"}
+			}
+		},
+		{
+			"from": [1.5, 14, 1.5],
+			"to": [14.5, 15, 14.5],
+			"faces": {
+				"north": {"uv": [1, 1, 14, 2], "texture": "#cross"},
+				"east": {"uv": [1, 1, 14, 2], "texture": "#cross"},
+				"south": {"uv": [1, 1, 14, 2], "texture": "#cross"},
+				"west": {"uv": [1, 1, 14, 2], "texture": "#cross"},
+				"up": {"uv": [1, 1, 14, 14], "texture": "#2"},
+				"down": {"uv": [1, 1, 14, 14], "texture": "#2"}
+			}
+		},
+		{
+			"from": [2, 15, 2],
+			"to": [14, 16, 14],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 1], "texture": "#cross"},
+				"east": {"uv": [2, 0, 14, 1], "texture": "#cross"},
+				"south": {"uv": [2, 0, 14, 1], "texture": "#cross"},
+				"west": {"uv": [2, 0, 14, 1], "rotation": 180, "texture": "#cross"},
+				"up": {"uv": [2, 4, 14, 16], "texture": "#2"},
+				"down": {"uv": [2, 4, 14, 16], "texture": "#2"}
+			}
+		}
+	]
+}

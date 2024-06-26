@@ -1,0 +1,61 @@
+{
+	"credit": "Made with Blockbench by Valdr687",
+	"parent": "minecraft:block/stem_growth7",
+	"textures": {
+		"stem": "block/melon_stem"
+	},
+	"elements": [
+		{
+			"from": [6.975, -3, 4.975],
+			"to": [9, 8, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#stem"},
+				"east": {"uv": [5, 5, 11, 16], "texture": "#stem", "tintindex": 0},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#stem"},
+				"west": {"uv": [5, 5, 11, 16], "texture": "#stem", "tintindex": 0},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#stem"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#stem"}
+			}
+		},
+		{
+			"from": [4.975, -3, 6.975],
+			"to": [11, 8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 8]},
+			"faces": {
+				"north": {"uv": [5, 5, 11, 16], "texture": "#stem", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#stem"},
+				"south": {"uv": [5, 5, 11, 16], "texture": "#stem", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#stem"},
+				"up": {"uv": [5, 14, 11, 16], "texture": "#stem", "tintindex": 0},
+				"down": {"uv": [5, 14, 11, 16], "texture": "#stem", "tintindex": 0}
+			}
+		},
+		{
+			"from": [8.975, 9, 6.975],
+			"to": [10, 12, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.5, 10.5, 8]},
+			"faces": {
+				"north": {"uv": [6, 1, 7, 4], "texture": "#stem", "tintindex": 0},
+				"east": {"uv": [7, 13, 9, 16], "texture": "#stem", "tintindex": 0},
+				"south": {"uv": [7, 1, 6, 4], "texture": "#stem", "tintindex": 0},
+				"west": {"uv": [7, 5, 9, 8], "texture": "#stem", "tintindex": 0},
+				"up": {"uv": [6, 1, 7, 3], "texture": "#stem", "tintindex": 0},
+				"down": {"uv": [6, 2, 7, 4], "texture": "#stem", "tintindex": 0}
+			}
+		},
+		{
+			"from": [7.975, 8, 6.975],
+			"to": [9, 11, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [7, 2, 8, 5], "texture": "#stem", "tintindex": 0},
+				"east": {"uv": [7, 13, 9, 16], "texture": "#stem", "tintindex": 0},
+				"south": {"uv": [7, 2, 8, 5], "texture": "#stem", "tintindex": 0},
+				"west": {"uv": [7, 13, 9, 16], "texture": "#stem", "tintindex": 0},
+				"up": {"uv": [7, 2, 8, 4], "texture": "#stem", "tintindex": 0},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#stem"}
+			}
+		}
+	]
+}

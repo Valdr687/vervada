@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+{"model": "minecraft:block/potted_fern"},
+{"model": "minecraft:block/potted_fern", "y":90},
+{"model": "minecraft:block/potted_fern", "y":180},
+{"model": "minecraft:block/potted_fern", "y":270}
+     ]
+  }
+}

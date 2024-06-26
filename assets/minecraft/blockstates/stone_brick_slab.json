@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "type=bottom": [
+	{"model": "minecraft:block/stone_brick_slab"},
+	{"model": "minecraft:block/dalles/stone_brick_slab1"},
+	{"model": "minecraft:block/dalles/stone_brick_slab2"},
+	{"model": "minecraft:block/dalles/stone_brick_slab3"},
+	{"model": "minecraft:block/dalles/stone_brick_slab4"},
+	{"model": "minecraft:block/dalles/stone_brick_slab5"}
+	],
+    "type=double": [ {
+      "model": "minecraft:block/stone_column"
+    } ],
+    "type=top": [
+	{"model": "minecraft:block/stone_brick_slab_top"},
+	{"model": "minecraft:block/dalles/stone_brick_slab_top1"},
+	{"model": "minecraft:block/dalles/stone_brick_slab_top2"},
+	{"model": "minecraft:block/dalles/stone_brick_slab_top3"},
+	{"model": "minecraft:block/dalles/stone_brick_slab_top4"},
+	{"model": "minecraft:block/dalles/stone_brick_slab_top5"}
+	]
+  }
+}

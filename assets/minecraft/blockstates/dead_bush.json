@@ -1,0 +1,8 @@
+{
+    "variants":{
+      "": [ { "model": "block/dead_bush"}, 
+            { "model": "block/plantes/cactus_small"},
+	    { "model": "block/plantes/cactus_small_flower"}
+            ] }
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/attached_melon_stem",
+      "y": 0
+    },
+    "facing=north": {
+      "model": "minecraft:block/attached_melon_stem",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "minecraft:block/attached_melon_stem",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "minecraft:block/attached_melon_stem",
+      "y":180
+    }
+  }
+}

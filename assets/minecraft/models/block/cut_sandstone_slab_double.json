@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/double/sandstone_top",
+    "side": "minecraft:block/double/cut_sandstone_slab_double"
+  }
+}

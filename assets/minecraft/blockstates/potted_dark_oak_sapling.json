@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+{"model": "minecraft:block/potted_dark_oak_sapling"},
+{"model": "minecraft:block/potted_dark_oak_sapling", "y":90},
+{"model": "minecraft:block/potted_dark_oak_sapling", "y":180},
+{"model": "minecraft:block/potted_dark_oak_sapling", "y":270}
+     ]
+  }
+}

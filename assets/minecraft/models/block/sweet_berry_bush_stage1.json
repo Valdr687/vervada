@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench by Valdr687",
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"cross": "block/sweet_berry_bush_stage1"
+	},
+	"elements": [
+		{
+			"from": [2.5, 2, 2.5],
+			"to": [13.5, 13, 13.5],
+			"faces": {
+				"up": {"uv": [3, 3, 14, 14], "texture": "#cross"},
+				"down": {"uv": [3, 3, 14, 14], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [2.5, 0, 0.5],
+			"to": [2.5, 16, 14.5],
+			"faces": {
+				"east": {"uv": [1, 0, 15, 16], "texture": "#cross"},
+				"west": {"uv": [1, 0, 15, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [13.5, 0, 0.5],
+			"to": [13.5, 16, 14.5],
+			"faces": {
+				"east": {"uv": [1, 0, 15, 16], "texture": "#cross"},
+				"west": {"uv": [1, 0, 15, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [0.5, 0, 2.5],
+			"to": [14.5, 16, 2.5],
+			"faces": {
+				"north": {"uv": [1, 0, 15, 16], "texture": "#cross"},
+				"south": {"uv": [1, 0, 15, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [0.5, 0, 13.5],
+			"to": [14.5, 16, 13.5],
+			"faces": {
+				"north": {"uv": [1, 0, 15, 16], "texture": "#cross"},
+				"south": {"uv": [1, 0, 15, 16], "texture": "#cross"}
+			}
+		}
+	]
+}

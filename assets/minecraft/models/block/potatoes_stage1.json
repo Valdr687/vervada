@@ -1,0 +1,47 @@
+{
+	"credit": "Made with Blockbench by Valdr687",
+	"parent": "minecraft:block/crop",
+	"textures": {
+		"crop": "block/potatoes_stage1"
+	},
+	"elements": [
+		{
+			"from": [8, -1, 0],
+			"to": [8, 11, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 4, 0, 0], "texture": "#crop"},
+				"east": {"uv": [0, 4, 16, 16], "texture": "#crop"},
+				"south": {"uv": [0, 4, 0, 0], "texture": "#crop"},
+				"west": {"uv": [0, 4, 16, 16], "texture": "#crop"},
+				"up": {"uv": [0, 4, 0, 0], "texture": "#crop"},
+				"down": {"uv": [0, 4, 0, 0], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [0, -1, 8],
+			"to": [16, 11, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 4, 16, 16], "texture": "#crop"},
+				"east": {"uv": [0, 4, 0, 0], "texture": "#crop"},
+				"south": {"uv": [0, 4, 16, 16], "texture": "#crop"},
+				"west": {"uv": [0, 4, 0, 0], "texture": "#crop"},
+				"up": {"uv": [0, 4, 0, 0], "texture": "#crop"},
+				"down": {"uv": [0, 4, 0, 0], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [7, -1, 7],
+			"to": [9, 0, 9],
+			"faces": {
+				"north": {"uv": [7, 15, 9, 16], "texture": "#crop"},
+				"east": {"uv": [7, 15, 9, 16], "texture": "#crop"},
+				"south": {"uv": [7, 15, 9, 16], "texture": "#crop"},
+				"west": {"uv": [7, 15, 9, 16], "texture": "#crop"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#crop"},
+				"down": {"uv": [2, 0, 4, 2], "texture": "#crop"}
+			}
+		}
+	]
+}
