@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/double/cut_sandstone_column_top",
+        "side": "block/double/cut_sandstone_column_side"
+    }
+}

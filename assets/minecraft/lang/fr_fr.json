@@ -1,0 +1,9 @@
+{
+  "chat.type.text": "%s : %s",
+  "chat.type.text.narrate": "%s dis %s",
+  "chat.type.emote": "* %s %s",
+  "chat.type.announcement": "[%s] %s",
+  "chat.type.admin": "[%s: %s]",
+  "chat.type.team.text": "%s %s %s",
+  "chat.type.team.sent": "-> %s %s %s"
+}

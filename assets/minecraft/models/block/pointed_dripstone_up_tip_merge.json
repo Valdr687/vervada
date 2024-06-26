@@ -1,0 +1,78 @@
+{
+	"credit": "Made with Blockbench by Valdr687",
+	"parent": "minecraft:block/pointed_dripstone",
+	"textures": {
+		"1": "block/dripstone_block",
+		"particle": "block/dripstone_block",
+		"cross": "block/pointed_dripstone_up_tip_merge"
+	},
+	"elements": [
+		{
+			"from": [6.5, 0, 6.5],
+			"to": [9.5, 3, 9.5],
+			"faces": {
+				"north": {"uv": [6, 0, 9, 3], "texture": "#cross"},
+				"east": {"uv": [6, 0, 9, 3], "texture": "#cross"},
+				"south": {"uv": [6, 0, 9, 3], "texture": "#cross"},
+				"west": {"uv": [6, 0, 9, 3], "texture": "#cross"},
+				"down": {"uv": [6, 0, 9, 3], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [6, 3, 6],
+			"to": [10, 4, 10],
+			"faces": {
+				"north": {"uv": [5, 3, 9, 4], "texture": "#cross"},
+				"east": {"uv": [5, 3, 9, 4], "texture": "#cross"},
+				"south": {"uv": [5, 3, 9, 4], "texture": "#cross"},
+				"west": {"uv": [5, 3, 9, 4], "texture": "#cross"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5.5, 4, 5.5],
+			"to": [10.5, 10, 10.5],
+			"faces": {
+				"north": {"uv": [5, 4, 10, 10], "texture": "#cross"},
+				"east": {"uv": [5, 4, 10, 10], "texture": "#cross"},
+				"south": {"uv": [5, 4, 10, 10], "texture": "#cross"},
+				"west": {"uv": [5, 4, 10, 10], "texture": "#cross"},
+				"down": {"uv": [8, 3, 13, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5, 10, 5],
+			"to": [11, 11, 11],
+			"faces": {
+				"north": {"uv": [4, 10, 10, 11], "texture": "#cross"},
+				"east": {"uv": [4, 10, 10, 11], "texture": "#cross"},
+				"south": {"uv": [4, 10, 10, 11], "texture": "#cross"},
+				"west": {"uv": [4, 10, 10, 11], "texture": "#cross"},
+				"down": {"uv": [1, 2, 7, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4.5, 11, 4.5],
+			"to": [11.5, 14, 11.5],
+			"faces": {
+				"north": {"uv": [4, 11, 11, 14], "texture": "#cross"},
+				"east": {"uv": [4, 11, 11, 14], "texture": "#cross"},
+				"south": {"uv": [4, 11, 11, 14], "texture": "#cross"},
+				"west": {"uv": [4, 11, 11, 14], "texture": "#cross"},
+				"down": {"uv": [8, 3, 15, 10], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 14, 4],
+			"to": [12, 17, 12],
+			"faces": {
+				"north": {"uv": [4, 14, 12, 16], "texture": "#cross"},
+				"east": {"uv": [4, 14, 12, 16], "texture": "#cross"},
+				"south": {"uv": [4, 14, 12, 16], "texture": "#cross"},
+				"west": {"uv": [4, 14, 12, 16], "texture": "#cross"},
+				"up": {"uv": [5, 5, 13, 13], "texture": "#1"},
+				"down": {"uv": [7, 5, 15, 13], "texture": "#1"}
+			}
+		}
+	]
+}

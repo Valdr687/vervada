@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "type=bottom": [ 
+	{"model": "minecraft:block/brick_slab"},
+	{"model": "minecraft:block/dalles/brick_slab1"},
+	{"model": "minecraft:block/dalles/brick_slab2"},
+	{"model": "minecraft:block/dalles/brick_slab3"} ],
+    "type=double": {
+      "model": "minecraft:block/bricks_double"
+    },
+    "type=top": [
+	{"model": "minecraft:block/brick_slab_top"},
+	{"model": "minecraft:block/dalles/brick_slab_top1"},
+	{"model": "minecraft:block/dalles/brick_slab_top2"},
+	{"model": "minecraft:block/dalles/brick_slab_top3"} ]
+  }
+}

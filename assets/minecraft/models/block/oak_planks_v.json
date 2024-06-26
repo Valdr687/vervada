@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all_v",
+    "textures": {
+        "all": "block/oak_planks"
+    }
+}

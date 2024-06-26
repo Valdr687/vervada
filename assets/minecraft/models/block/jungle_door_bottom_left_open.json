@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench by Valdr687",
+	"parent": "minecraft:block/door_bottom_left_open",
+	"textures": {
+		"2": "block/doors/jungle_door_extra",
+		"bottom": "block/jungle_door_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [13, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#bottom"},
+				"south": {"uv": [13, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#bottom"},
+				"up": {"uv": [0, 0, 3, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 3, 16], "texture": "#2"}
+			}
+		}
+	]
+}

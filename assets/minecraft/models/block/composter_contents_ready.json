@@ -1,0 +1,15 @@
+{
+	"credit": "Made with Blockbench by Dr_Microwave",
+	"textures": {
+		"inside": "block/composter_ready"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 15, 15],
+			"faces": {
+				"up": {"uv": [2, 2, 14, 14], "texture": "#inside", "cullface": "up"}
+			}
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench by Valdr687",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/stripped_spruce_log",
+		"2": "block/stripped_spruce_log_top",
+		"particle": "block/stripped_spruce_log"
+	},
+	"elements": [
+		{
+			"name": "pied",
+			"from": [6, 0, 6],
+			"to": [10, 13, 10],
+			"faces": {
+				"north": {"uv": [6, 3, 10, 16], "texture": "#1"},
+				"east": {"uv": [6, 3, 10, 16], "texture": "#1"},
+				"south": {"uv": [6, 3, 10, 16], "texture": "#1"},
+				"west": {"uv": [6, 3, 10, 16], "texture": "#1"},
+				"down": {"uv": [12, 12, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "plateau",
+			"from": [0, 13, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#2"}
+			}
+		}
+	]
+}
