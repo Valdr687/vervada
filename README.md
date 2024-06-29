@@ -90,6 +90,12 @@ ___
 
 ___
 
+## Changelog 7: Update #6
+
+### Patchs
+
+- Patched glitchy texture of loom
+
 ## Changelog 6: Update #5
 
 - Added cherry doors and cherry trapdoors

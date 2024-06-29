@@ -1,5 +1,5 @@
 {
-	"texture": "./textures/sheep.png",
+	"texture": "textures/sheep.png",
 	"textureSize": [64, 32],
 	"models": [
 		{
