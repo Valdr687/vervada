@@ -91,6 +91,7 @@ ___
 |Wanderer|_The scream_|Edvard Munch|![Image](./assets/minecraft/textures/painting/wanderer.png)|
 |Wasteland|_Salvator Mundi_|Leonardo da Vinci|![Image](./assets/minecraft/textures/painting/wasteland.png)|
 |Wither|_Le seul oiseau qui vole au dessus des nuages_|André Devambez|![Image](./assets/minecraft/textures/painting/wither.png)|
+| Name | _New name_ | Artist | link |
 
 <!-- URLs -->
 
