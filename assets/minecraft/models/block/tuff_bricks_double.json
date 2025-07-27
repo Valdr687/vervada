@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block/cube_column",
     "textures": {
-        "end": "block/tuff_bricks_double_end",
+        "end": "block/double/tuff_bricks_double_end",
         "side": "block/double/tuff_bricks_double_side"
     }
 }

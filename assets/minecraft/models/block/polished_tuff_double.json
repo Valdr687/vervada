@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block/cube_column",
     "textures": {
-        "end": "block/polished_tuff_double_end",
+        "end": "block/double/polished_tuff_double_end",
         "side": "block/double/polished_tuff_double_side"
     }
 }
