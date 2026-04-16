@@ -23,6 +23,7 @@
 - Added Firefly Bush
 - Added Cactus Flower block
 - Added Bush block
+- Added pale wood double slabs
 
 ### Patchs
 
@@ -32,6 +33,7 @@
 - Fixed sheep's custom model
 - Patched grass
 - Patched rotations of some pots
+- Patched pumpkin and melon stems
 
 ## Changelog 6: Update #5
 
