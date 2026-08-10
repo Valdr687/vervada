@@ -1,3 +1,59 @@
+## Changelog 8: Update #7
+
+### Additions and changes
+
+- Added eyeblossom (open and closed) with custom 3D models and potted variants
+- Added pale oak sapling with custom 3D model and potted variant
+- Added poplar sapling (yellow, orange, red) with 3D model and potted variant
+- Added yellow, orange and red poplar leaves
+- Added red shrub
+- Added pale hanging moss with tip variant
+- Added cactus flower
+- Added bush
+- Added short dry grass and tall dry grass
+- Added wildflowers (4 variants)
+- Added firefly bush
+- Added big dripleaf (stable, partial tilt and full tilt states)
+- Added small dripleaf top model
+- Added golden dandelion (4 random variants)
+- Added vine, weeping vines plant, all corals and their dead variants
+- Added double slab textures for stone, andesite, diorite, granite, tuff, tuff bricks, polished tuff, polished blackstone bricks, resin bricks and grass top
+- Added double slab support for pale oak, polished tuff, resin brick, smooth stone and tuff slabs
+- Added copper trapdoors (all oxidation stages)
+- Added crafter block
+- Added copper bulb textures (all oxidation stages and power states)
+- Added all modern paintings (23 paintings from 1.21+)
+- Added oak hanging sign CEM model
+- Added emissive texture for open eyeblossom
+- Added shelves
+- Added copper chain
+- Added copper gate
+- Updated bookshelf models (9 variants)
+- Updated cartography table, crafting table and loom models
+- Updated dead bush model
+- Updated pumpkin and melon stem models (all growth stages)
+- Added custom stripped models for pale oak and poplar fences and fence gates
+- Recolored copper bars textures to match iron bars
+
+### Maintenance
+
+- Updated pack format from 15 to 95 (compatible down to format 64)
+- Migrated custom 3D iron chains and iron bars models to standard template files
+- Updated all CTM overlay matchBlocks for new 1.21+ blocks (all concretes, terracottas, dirt, sand, etc.)
+- Optimisation pass on blockstate files (rails, slabs, iron bars)
+- Removed sign models and textures (format changed in 1.21.6)
+- Removed unused files (desktop.ini, Thumbs.db, splashes.txt, christmas chest textures)
+
+### Patchs
+
+- Fixed iron bars model
+- Fixed sheep and snow golem CEM models
+- Fixed pitcher crop model reference
+- Fixed out-of-bounds UV coordinates in raised rail models (`rail_raised`, `powered_rail_raised`, `detector_rail_raised`, `activator_rail_raised`, and their `*_on_raised` variants)
+- Fixed missing/unresolved texture references (`particle` added to `glass_pane_template`, `redstone_torch`, `seagrass2`)
+- Cleaned up `#missing` face references in `loom`, `crafter`, and `polished_blackstone_double` models
+- Fixed parent inheritance for double slab models (`polished_blackstone_double`, `blackstone_double`, `polished_deepslate_double`)
+
 ## Changelog 7: Update #6
 
 ### Additions and changes

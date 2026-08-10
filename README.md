@@ -91,7 +91,28 @@ ___
 |Wanderer|_The scream_|Edvard Munch|![Image](./assets/minecraft/textures/painting/wanderer.png)|
 |Wasteland|_Salvator Mundi_|Leonardo da Vinci|![Image](./assets/minecraft/textures/painting/wasteland.png)|
 |Wither|_Le seul oiseau qui vole au dessus des nuages_|André Devambez|![Image](./assets/minecraft/textures/painting/wither.png)|
-| Name | _New name_ | Artist | link |
+| Backyard | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/backyard.png) |
+| Baroque | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/baroque.png) |
+| Bouquet | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/bouquet.png) |
+| Cavebird | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/cavebird.png) |
+| Changing | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/changing.png) |
+| Cotan | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/cotan.png) |
+| Earth | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/earth.png) |
+| Endboss | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/endboss.png) |
+| Fern | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/fern.png) |
+| Finding | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/finding.png) |
+| Fire | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/fire.png) |
+| Lowmist | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/lowmist.png) |
+| Meditative | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/meditative.png) |
+| Orb | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/orb.png) |
+| Owlemons | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/owlemons.png) |
+| Passage | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/passage.png) |
+| Pond | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/pond.png) |
+| Prairie ride | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/prairie_ride.png) |
+| Sunflowers | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/sunflowers.png) |
+| Tides | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/tides.png) |
+| Water | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/water.png) |
+| Wind | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/wind.png) |
 
 <!-- URLs -->
 
