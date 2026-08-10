@@ -28,6 +28,9 @@
 - Added shelves
 - Added copper chain
 - Added copper gate
+- Added creaking heart
+- Added copper torch
+- Updated torch models
 - Updated bookshelf models (9 variants)
 - Updated cartography table, crafting table and loom models
 - Updated dead bush model

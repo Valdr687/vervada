@@ -3,8 +3,7 @@
 ## Upcoming (26.x Updates)
 
 ### Additions
-- [ ] **Blocks**: Poplar Wood set (Log, Stripped, Wood, ~~Fence, Gate~~, Door, Trapdoor).
-- [ ] **Blocks**: Poplar Leaves variants (Green). *(Orange, Red, and Yellow are already complete)*
+- [ ] **Blocks**: Poplar Wood set (~~Log, Stripped~~, Wood, ~~Fence, Gate~~, Door, Trapdoor).
 - [ ] **Blocks**: Sulfur Spike, Polished Sulfur, Potent Sulfur, Sulfur Cave decorative blocks.
 - [ ] **GUI**: Death message icons.
 
@@ -19,7 +18,6 @@
 
 ### Additions
 - [ ] **Pale Oak Set**: Door, Trapdoor, ~~Fence, Fence Gate~~ (The Garden Awakens).
-- [ ] **Copper Age**: Copper Torch.
 - [ ] **Chaos Cubed**: Cinnabar Block Set, Sulfur Block Set.
 - [ ] **Special Blocks**: Vault / Ominous Vault
 - [ ] **Weapons/Armor**: Spear (held models)
@@ -27,7 +25,6 @@
 
 ### Changes
 - [ ] **Blocks**: Hanging Signs (needs custom models for *all* wood types).
-- [ ] **Blocks**: Creaking Heart (need top texture).
 
 ---
 
