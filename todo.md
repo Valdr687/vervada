@@ -14,29 +14,21 @@
 
 ---
 
-## Blocks & Items
+## Items
 
-### Additions
+- [ ] Spear
+
+## Blocks
+
 - [ ] **Pale Oak Set**: Door, Trapdoor, ~~Fence, Fence Gate~~ (The Garden Awakens).
 - [ ] **Chaos Cubed**: Cinnabar Block Set, Sulfur Block Set.
 - [ ] **Special Blocks**: Vault / Ominous Vault
-- [ ] **Weapons/Armor**: Spear (held models)
 - [ ] **Decorated pots**
-
-### Changes
 - [ ] **Blocks**: Hanging Signs (needs custom models for *all* wood types).
-
----
 
 ## Entities
 
-### Additions
-- [ ] **Passive Mobs**: Cold and Warm variants for Pig, Cow, and Chicken.
 - [ ] **Paintings**: 20 new Tricky Trials paintings (Meditative, Prairie Ride, Baroque, Humble, Unpacked, Bouquet, Cavebird, Cotán, Endboss, Fern, Owlemons, Sunflowers, Tides, Backyard, Pond, Changing, Finding, Lowmist, Passage, Orb).
-
-### Changes
-- [ ] **Mobs**: Sheep (fix wool artifacts).
-- [ ] **Creaking**: Persistence state when named.
 
 ---
 

@@ -30,6 +30,10 @@
 - Added copper gate
 - Added creaking heart
 - Added copper torch
+- Added poplar wood (log, stripped log, fence, fence gate)
+- Added pale oak wood (log, stripped log, fence, fence gate)
+- Added warm and cold pig
+- Added warm chicken
 - Updated torch models
 - Updated bookshelf models (9 variants)
 - Updated cartography table, crafting table and loom models
