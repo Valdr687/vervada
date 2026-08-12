@@ -4,7 +4,7 @@
       "model": "minecraft:block/stone_slab"
     },
     "type=double": {
-      "model": "minecraft:block/stone_double"
+      "model": "minecraft:block/double/stone_double"
     },
     "type=top": {
       "model": "minecraft:block/stone_slab_top"

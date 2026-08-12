@@ -6,7 +6,8 @@
 
 ## Blocks
 
-- [ ] **Pale Oak Set**: Door, Trapdoor (The Garden Awakens).
+- [ ] **Pale Oak Set**: Door, Trapdoor
+- [ ] **Poplar set**: Door, Trapdoor
 - [ ] **Special Blocks**: Vault / Ominous Vault
 - [ ] **Decorated pots**
 - [ ] **Blocks**: Hanging Signs (needs custom models for *all* wood types).

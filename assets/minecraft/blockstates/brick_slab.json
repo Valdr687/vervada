@@ -3,7 +3,7 @@
     "type=bottom": [ 
 	{"model": "minecraft:block/brick_slab"}],
     "type=double": {
-      "model": "minecraft:block/bricks_double"
+      "model": "minecraft:block/double/bricks_double"
     },
     "type=top": [
 	{"model": "minecraft:block/brick_slab_top"}]
