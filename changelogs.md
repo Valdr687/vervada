@@ -17,8 +17,7 @@
 - Added small dripleaf top model
 - Added golden dandelion (4 random variants)
 - Added vine, weeping vines plant, all corals and their dead variants
-- Added double slab textures for stone, andesite, diorite, granite, tuff, tuff bricks, polished tuff, polished blackstone bricks, resin bricks and grass top
-- Added double slab support for pale oak, polished tuff, resin brick, smooth stone and tuff slabs
+- Added double slab textures and support for stone, andesite, diorite, granite, tuff, tuff bricks, polished tuff, polished blackstone bricks, resin bricks, smooth stone, pale oak, poplar, wool, concrete and grass top
 - Added copper trapdoors (all oxidation stages)
 - Added crafter block
 - Added copper bulb textures (all oxidation stages and power states)
@@ -34,17 +33,17 @@
 - Added pale oak wood (log, stripped log, fence, fence gate)
 - Added warm and cold pig
 - Added warm chicken
+- Added coper bars
+- Added sulfur spikes
 - Updated torch models
 - Updated bookshelf models (9 variants)
 - Updated cartography table, crafting table and loom models
 - Updated dead bush model
 - Updated pumpkin and melon stem models (all growth stages)
-- Added custom stripped models for pale oak and poplar fences and fence gates
-- Recolored copper bars textures to match iron bars
 
 ### Maintenance
 
-- Updated pack format from 15 to 95 (compatible down to format 64)
+- Updated pack format from to 95
 - Migrated custom 3D iron chains and iron bars models to standard template files
 - Updated all CTM overlay matchBlocks for new 1.21+ blocks (all concretes, terracottas, dirt, sand, etc.)
 - Optimisation pass on blockstate files (rails, slabs, iron bars)
