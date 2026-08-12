@@ -17,7 +17,7 @@
 - Added small dripleaf top model
 - Added golden dandelion (4 random variants)
 - Added vine, weeping vines plant, all corals and their dead variants
-- Added double slab textures and support for stone, andesite, diorite, granite, tuff, tuff bricks, polished tuff, polished blackstone bricks, resin bricks, smooth stone, pale oak, poplar, wool, concrete and grass top
+- Added double slab textures for stone, andesite, diorite, granite, tuff, tuff bricks, polished tuff, polished blackstone bricks, resin bricks, smooth stone, pale oak, poplar, wool, concrete, polished sulfur, polished cinnabar, sulfar bricks, cinnabar bricks, sulfur and cinnabar
 - Added copper trapdoors (all oxidation stages)
 - Added crafter block
 - Added copper bulb textures (all oxidation stages and power states)

@@ -4,7 +4,7 @@
       "model": "minecraft:block/magenta_wool_slab"
     },
     "type=double": {
-      "model": "minecraft:block/magenta_wool_v"
+      "model": "minecraft:block/double/magenta_wool_v"
     },
     "type=top": {
       "model": "minecraft:block/magenta_wool_slab_top"

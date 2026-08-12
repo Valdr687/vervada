@@ -4,7 +4,7 @@
       "model": "minecraft:block/polished_sulfur_slab"
     },
     "type=double": {
-      "model": "minecraft:block/polished_sulfur"
+      "model": "minecraft:block/double/polished_sulfur_double"
     },
     "type=top": {
       "model": "minecraft:block/polished_sulfur_slab_top"

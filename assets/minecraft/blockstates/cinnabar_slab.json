@@ -4,7 +4,7 @@
       "model": "minecraft:block/cinnabar_slab"
     },
     "type=double": {
-      "model": "minecraft:block/cinnabar"
+      "model": "minecraft:block/double/cinnabar_slab_double"
     },
     "type=top": {
       "model": "minecraft:block/cinnabar_slab_top"

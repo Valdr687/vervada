@@ -4,7 +4,7 @@
       "model": "minecraft:block/purple_wool_slab"
     },
     "type=double": {
-      "model": "minecraft:block/purple_wool_v"
+      "model": "minecraft:block/double/purple_wool_v"
     },
     "type=top": {
       "model": "minecraft:block/purple_wool_slab_top"

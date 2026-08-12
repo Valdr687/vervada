@@ -4,7 +4,7 @@
 	{"model": "minecraft:block/stone_brick_slab"}
 	],
     "type=double": [ {
-      "model": "minecraft:block/stone_column"
+      "model": "minecraft:block/double/stone_column"
     } ],
     "type=top": [
 	{"model": "minecraft:block/stone_brick_slab_top"}

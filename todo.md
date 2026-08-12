@@ -16,10 +16,6 @@
 
 - [ ] **Paintings**: 20 new Tricky Trials paintings (Meditative, Prairie Ride, Baroque, Humble, Unpacked, Bouquet, Cavebird, Cotán, Endboss, Fern, Owlemons, Sunflowers, Tides, Backyard, Pond, Changing, Finding, Lowmist, Passage, Orb).
 
-## Double slabs
-
-- [ ] **Cinnabar**: Cinnabar, Polished Cinnabar, Cinnabar Bricks
-- [ ] **Sulfur**: Sulfur, Polished Sulfur
 ---
 
 ## GUI

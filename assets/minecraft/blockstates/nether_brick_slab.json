@@ -4,7 +4,7 @@
       "model": "minecraft:block/nether_brick_slab"
     },
     "type=double": {
-      "model": "minecraft:block/nether_bricks_column"
+      "model": "minecraft:block/double/nether_bricks_column"
     },
     "type=top": {
       "model": "minecraft:block/nether_brick_slab_top"
