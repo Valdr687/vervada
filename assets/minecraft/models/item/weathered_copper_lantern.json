@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench by Valdr687",
 	"parent": "block/block",
 	"textures": {
-		"particle": "block/soul_lantern",
-		"lantern": "block/soul_lantern"
+		"particle": "block/weathered_copper_lantern",
+		"lantern": "block/weathered_copper_lantern"
 	},
 	"elements": [
 		{

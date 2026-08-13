@@ -8,9 +8,10 @@
 
 - [ ] **Pale Oak Set**: Door, Trapdoor
 - [ ] **Poplar set**: Door, Trapdoor
-- [ ] **Special Blocks**: Vault / Ominous Vault
 - [ ] **Decorated pots**
 - [ ] **Blocks**: Hanging Signs (needs custom models for *all* wood types).
+- [ ] Crafter
+- minecraft:block/potted_lily_of_the_valley45
 
 ## Entities
 
