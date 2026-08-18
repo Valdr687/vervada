@@ -36,6 +36,9 @@
 - Added coper bars
 - Added sulfur spikes
 - Added mace
+- Added crafter
+- Added copper bulb
+- Updated cherry doors
 - Updated torch models
 - Updated bookshelf models (9 variants)
 - Updated cartography table, crafting table and loom models

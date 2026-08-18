@@ -10,8 +10,7 @@
 - [ ] **Poplar set**: Door, Trapdoor
 - [ ] **Decorated pots**
 - [ ] **Blocks**: Hanging Signs (needs custom models for *all* wood types).
-- [ ] Crafter
-- minecraft:block/potted_lily_of_the_valley45
+- [ ] Bell
 
 ## Entities
 
