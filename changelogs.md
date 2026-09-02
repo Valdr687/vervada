@@ -29,8 +29,8 @@
 - Added copper gate
 - Added creaking heart
 - Added copper torch
-- Added poplar wood (log, stripped log, fence, fence gate)
-- Added pale oak wood (log, stripped log, fence, fence gate)
+- Added poplar wood (log, stripped log, fence, fence gate, trapdoor)
+- Added pale oak wood (log, stripped log, fence, fence gate, door, trapdoor)
 - Added warm and cold pig
 - Added warm chicken
 - Added coper bars
@@ -63,6 +63,7 @@
 - Fixed missing/unresolved texture references (`particle` added to `glass_pane_template`, `redstone_torch`, `seagrass2`)
 - Cleaned up `#missing` face references in `loom`, `crafter`, and `polished_blackstone_double` models
 - Fixed parent inheritance for double slab models (`polished_blackstone_double`, `blackstone_double`, `polished_deepslate_double`)
+- Fixed the mangrove door texture
 
 ## Changelog 7: Update #6
 

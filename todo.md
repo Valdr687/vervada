@@ -6,8 +6,7 @@
 
 ## Blocks
 
-- [ ] **Pale Oak Set**: Door, Trapdoor
-- [ ] **Poplar set**: Door, Trapdoor
+- [ ] **Poplar set**: Door (fix bottom)
 - [ ] **Decorated pots**
 - [ ] **Blocks**: Hanging Signs (needs custom models for *all* wood types).
 - [ ] Bell
@@ -30,3 +29,7 @@
 ### Changes
 - [ ] **HUD**: Stopwatch/Timer HUD elements.
 - [ ] **Menus**: Chat Drafts, Server Code of Conduct, Social Interactions, Options/Settings, Controls screen, Creative Mode inventory tabs.
+
+## Ideas
+
+- Sculpt even more the mangrove door and trapdoor
