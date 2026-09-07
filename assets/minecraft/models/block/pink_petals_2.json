@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by Valdr687",
 	"parent": "minecraft:block/flowerbed_2",
 	"textures": {
+		"particle": "block/pink_petals",
 		"flowerbed": "block/pink_petals",
 		"stem": "block/pink_petals_stem"
 	},
@@ -59,7 +60,6 @@
 		{
 			"from": [3, 3, 10],
 			"to": [6, 3, 13],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-7, 1, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 0], "texture": "#flowerbed"},
 				"east": {"uv": [0, 0, 0, 0], "texture": "#flowerbed"},

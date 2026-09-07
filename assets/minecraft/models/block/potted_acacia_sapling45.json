@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by Valdr687",
 	"textures": {
 		"0": "block/acacia_sapling_block",
-		"particle": "block/acacia_sapling_block",
+		"particle": "block/flower_pot",
 		"flowerpot": "block/flower_pot",
 		"dirt": "block/podzol_top"
 	},
@@ -215,7 +215,6 @@
 		{
 			"from": [5.22703, 6.025, 5.8481],
 			"to": [7.22703, 6.025, 7.8481],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10.025, 8.75]},
 			"faces": {
 				"up": {"uv": [3, 9, 4, 10], "rotation": 270, "texture": "#0"},
 				"down": {"uv": [3, 9, 4, 10], "rotation": 90, "texture": "#0"}
@@ -224,7 +223,6 @@
 		{
 			"from": [7.97261, 11, 8.59368],
 			"to": [9.97261, 11, 10.59368],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10.025, 8.75]},
 			"faces": {
 				"up": {"uv": [3, 9, 4, 10], "rotation": 270, "texture": "#0"},
 				"down": {"uv": [3, 9, 4, 10], "rotation": 90, "texture": "#0"}
@@ -287,25 +285,6 @@
 				"up": {"uv": [12.5, 0, 16, 3.5], "texture": "#0"},
 				"down": {"uv": [16, 3.5, 12.5, 0], "texture": "#0"}
 			}
-		}
-	],
-	"groups": [
-		0,
-		1,
-		2,
-		3,
-		4,
-		{
-			"name": "tronc",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
-		},
-		{
-			"name": "feuilles",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
 		}
 	]
 }

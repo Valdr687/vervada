@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by Valdr687",
 	"parent": "minecraft:block/cross",
 	"textures": {
+		"particle": "block/sweet_berry_bush_stage0",
 		"cross": "block/sweet_berry_bush_stage0"
 	},
 	"elements": [

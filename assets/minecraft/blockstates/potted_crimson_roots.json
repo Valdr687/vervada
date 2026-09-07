@@ -1,10 +1,1 @@
-{
-  "variants": {
-    "": [
-{"model": "minecraft:block/potted_crimson_roots"},
-{"model": "minecraft:block/potted_crimson_roots", "y":90},
-{"model": "minecraft:block/potted_crimson_roots", "y":180},
-{"model": "minecraft:block/potted_crimson_roots", "y":270}
-     ]
-  }
-}
+{"variants":{"":[{"model":"minecraft:block/potted_crimson_roots"},{"model":"minecraft:block/potted_crimson_roots","y":90},{"model":"minecraft:block/potted_crimson_roots","y":180},{"model":"minecraft:block/potted_crimson_roots","y":270}]}}

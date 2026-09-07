@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by Valdr687",
 	"parent": "minecraft:block/cross",
 	"textures": {
+		"particle": "block/sweet_berry_bush_stage2",
 		"cross": "block/sweet_berry_bush_stage2"
 	},
 	"elements": [
@@ -247,7 +248,6 @@
 		{
 			"from": [13.525, 3, 4.5],
 			"to": [14.525, 4, 5.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
 			"faces": {
 				"north": {"uv": [10, 12, 11, 13], "texture": "#cross"},
 				"east": {"uv": [10, 12, 11, 13], "texture": "#cross"},
@@ -260,7 +260,6 @@
 		{
 			"from": [4.525, 3, 1.5],
 			"to": [5.525, 4, 2.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
 			"faces": {
 				"north": {"uv": [10, 12, 11, 13], "texture": "#cross"},
 				"east": {"uv": [10, 12, 11, 13], "texture": "#cross"},
@@ -272,7 +271,6 @@
 		{
 			"from": [8.525, 13, 1.5],
 			"to": [9.525, 14, 2.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
 			"faces": {
 				"north": {"uv": [10, 12, 11, 13], "texture": "#cross"},
 				"east": {"uv": [10, 12, 11, 13], "texture": "#cross"},
@@ -284,7 +282,6 @@
 		{
 			"from": [13.525, 13, 8.5],
 			"to": [14.525, 14, 9.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
 			"faces": {
 				"north": {"uv": [10, 12, 11, 13], "texture": "#cross"},
 				"east": {"uv": [10, 12, 11, 13], "texture": "#cross"},
@@ -297,7 +294,6 @@
 		{
 			"from": [9.525, 13, 11.5],
 			"to": [10.525, 14, 12.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
 			"faces": {
 				"north": {"uv": [10, 12, 11, 13], "texture": "#cross"},
 				"east": {"uv": [10, 12, 11, 13], "texture": "#cross"},
@@ -309,7 +305,6 @@
 		{
 			"from": [5.525, 13, 13.5],
 			"to": [6.525, 14, 14.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
 			"faces": {
 				"east": {"uv": [10, 12, 11, 13], "texture": "#cross"},
 				"south": {"uv": [10, 12, 11, 13], "texture": "#cross"},
@@ -321,7 +316,6 @@
 		{
 			"from": [9.525, 3, 13.5],
 			"to": [10.525, 4, 14.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
 			"faces": {
 				"east": {"uv": [10, 12, 11, 13], "texture": "#cross"},
 				"south": {"uv": [10, 12, 11, 13], "texture": "#cross"},

@@ -4,7 +4,7 @@
       "model": "minecraft:block/bamboo_slab"
     },
     "type=double": {
-      "model": "minecraft:block/bamboo_planks_v"
+      "model": "minecraft:block/double/bamboo_planks_v"
     },
     "type=top": {
       "model": "minecraft:block/bamboo_slab_top"

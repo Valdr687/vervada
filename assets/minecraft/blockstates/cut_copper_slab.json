@@ -4,7 +4,7 @@
       "model": "minecraft:block/cut_copper_slab"
     },
     "type=double": {
-      "model": "minecraft:block/cut_copper_double"
+      "model": "minecraft:block/double/cut_copper_double"
     },
     "type=top": {
       "model": "minecraft:block/cut_copper_slab_top"

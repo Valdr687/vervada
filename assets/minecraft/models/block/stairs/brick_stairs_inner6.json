@@ -1,8 +1,1 @@
-{
-  "parent": "minecraft:block/inner_stairs",
-  "textures": {
-    "bottom": "minecraft:block/bricks6",
-    "top": "minecraft:block/bricks6",
-    "side": "minecraft:block/bricks6"
-  }
-}
+{"parent":"minecraft:block/inner_stairs","textures":{"bottom":"minecraft:block/bricks6","top":"minecraft:block/bricks6","side":"minecraft:block/bricks6"}}

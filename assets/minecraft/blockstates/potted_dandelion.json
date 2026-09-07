@@ -1,10 +1,1 @@
-{
-  "variants": {
-    "": [
-{"model": "minecraft:block/potted_dandelion"},
-{"model": "minecraft:block/potted_dandelion", "y":90},
-{"model": "minecraft:block/potted_dandelion", "y":180},
-{"model": "minecraft:block/potted_dandelion", "y":270}
-     ]
-  }
-}
+{"variants":{"":[{"model":"minecraft:block/potted_dandelion"},{"model":"minecraft:block/potted_dandelion","y":90},{"model":"minecraft:block/potted_dandelion","y":180},{"model":"minecraft:block/potted_dandelion","y":270}]}}

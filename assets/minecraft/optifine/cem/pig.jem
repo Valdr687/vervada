@@ -1,6 +1,7 @@
 {
-	"texture": "textures/entity/pig/pig.png",
+	"credit": "Made with Blockbench by Valdr687",
 	"textureSize": [64, 32],
+	"texture": "textures/entity/pig/pig.png",
 	"models": [
 		{
 			"part": "body",
@@ -74,6 +75,7 @@
 			"part": "leg2",
 			"id": "leg2",
 			"invertAxis": "xy",
+			"mirrorTexture": "u",
 			"translate": [-3, -6, -7],
 			"boxes": [
 				{"coordinates": [1, 0, 5, 4, 6, 4], "textureOffset": [0, 16]}
@@ -92,6 +94,7 @@
 			"part": "leg4",
 			"id": "leg4",
 			"invertAxis": "xy",
+			"mirrorTexture": "u",
 			"translate": [-3, -6, 5],
 			"boxes": [
 				{"coordinates": [1, 0, -7, 4, 6, 4], "textureOffset": [0, 16]}

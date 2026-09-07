@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by Valdr687",
 	"parent": "minecraft:block/flowerbed_4",
 	"textures": {
+		"particle": "block/pink_petals",
 		"flowerbed": "block/pink_petals",
 		"stem": "block/pink_petals_stem"
 	},

@@ -1,0 +1,122 @@
+{
+    "credit": "Made with Blockbench by Valdr687",
+    "textureSize": [64, 32],
+    "texture": "oak_hanging_sign",
+    "models": [
+        {
+            "part": "board",
+            "id": "board",
+            "invertAxis": "xy",
+            "translate": [0, -10, 0],
+            "boxes": [
+                {"coordinates": [-7, 0, -1, 14, 10, 2], "textureOffset": [0, 12]}
+            ]
+        },
+        {
+            "part": "plank",
+            "id": "plank",
+            "invertAxis": "xy",
+            "translate": [0, -10, 0],
+            "boxes": [
+                {"coordinates": [-8, 16, -2, 16, 2, 4], "textureOffset": [0, 0]}
+            ]
+        },
+        {
+            "part": "chain_left1",
+            "id": "chain_left1",
+            "invertAxis": "xy",
+            "translate": [-5, -16, 0],
+            "rotate": [0, 45, 0],
+            "animations": [
+                {
+                    "this.ry": 0
+                }
+            ]
+        },
+        {
+            "part": "chain_left2",
+            "id": "chain_left2",
+            "invertAxis": "xy",
+            "translate": [-5, -16, 0],
+            "rotate": [0, -45, 0],
+            "texture": "textures/entity/chain.png",
+            "textureSize": [16, 16],
+            "boxes": [
+                {"coordinates": [3.5, 11, -0.5, 1, 4, 1], "textureOffset": [0, 3]},
+                {"coordinates": [4.5, 11, -0.5, 1, 1, 1], "textureOffset": [7, 14]},
+                {"coordinates": [4.5, 14, -1.5, 1, 2, 1], "textureOffset": [7, 3]},
+                {"coordinates": [4.5, 14, 0.5, 1, 2, 1], "textureOffset": [7, 3]},
+                {"coordinates": [4.5, 10, -1.5, 1, 2, 1], "textureOffset": [7, 3]},
+                {"coordinates": [4.5, 10, 0.5, 1, 2, 1], "textureOffset": [7, 3]},
+                {"coordinates": [4.5, 14, -0.5, 1, 1, 1], "textureOffset": [7, 14]},
+                {"coordinates": [5.5, 11, -0.5, 1, 4, 1], "textureOffset": [12, 11]}
+            ],
+            "animations": [
+                {
+                    "this.ry": 0
+                }
+            ]
+        },
+        {
+            "part": "chain_right1",
+            "id": "chain_right1",
+            "invertAxis": "xy",
+            "translate": [5, -16, 0],
+            "rotate": [0, 45, 0],
+            "animations": [
+                {
+                    "this.ry": 0
+                }
+            ]
+        },
+        {
+            "part": "chain_right2",
+            "id": "chain_right2",
+            "invertAxis": "xy",
+            "translate": [5, -16, 0],
+            "rotate": [0, -45, 0],
+            "texture": "textures/entity/chain.png",
+            "textureSize": [16, 16],
+            "boxes": [
+                {"coordinates": [-6.5, 14, -0.5, 3, 1, 1], "textureOffset": [0, 9]},
+                {"coordinates": [-6.5, 11, -0.5, 3, 1, 1], "textureOffset": [0, 9]},
+                {"coordinates": [-6.5, 12, -0.5, 1, 2, 1], "textureOffset": [12, 3]},
+                {"coordinates": [-4.5, 12, -0.5, 1, 2, 1], "textureOffset": [7, 3]},
+                {"coordinates": [-5.5, 14, 0.5, 1, 2, 1], "textureOffset": [7, 3]},
+                {"coordinates": [-5.5, 14, -1.5, 1, 2, 1], "textureOffset": [7, 3]},
+                {"coordinates": [-5.5, 10, -1.5, 1, 2, 1], "textureOffset": [7, 3]},
+                {"coordinates": [-5.5, 10, 0.5, 1, 2, 1], "textureOffset": [7, 3]}
+            ],
+            "animations": [
+                {
+                    "this.ry": 0
+                }
+            ]
+        },
+        {
+            "part": "chains_v",
+            "id": "chains_v",
+            "invertAxis": "xy",
+            "translate": [0, -10, 0],
+            "texture": "textures/entity/chain.png",
+            "textureSize": [16, 16],
+            "boxes": [
+                {"coordinates": [-1, 14, -0.5, 2, 2, 1], "textureOffset": [0, 13]},
+                {"coordinates": [1, 15, -0.5, 1, 1, 1], "textureOffset": [7, 14]},
+                {"coordinates": [-2, 15, -0.5, 1, 1, 1], "textureOffset": [7, 14]},
+                {"coordinates": [-5, 12, -0.5, 1, 1, 1], "textureOffset": [2, 1]},
+                {"coordinates": [2, 14, -0.5, 1, 1, 1], "textureOffset": [7, 14]},
+                {"coordinates": [2, 12, -0.7, 1, 1, 1], "textureOffset": [7, 14]},
+                {"coordinates": [-3, 12, -0.7, 1, 1, 1], "textureOffset": [7, 14]},
+                {"coordinates": [2, 12, -0.7, 1, 1, 1], "textureOffset": [7, 14]},
+                {"coordinates": [4, 12, -0.7, 1, 1, 1], "textureOffset": [7, 14]},
+                {"coordinates": [3, 10, -0.5, 1, 2, 1], "textureOffset": [7, 3]},
+                {"coordinates": [-4, 10, -0.5, 1, 2, 1], "textureOffset": [7, 3]},
+                {"coordinates": [1, 13, -0.7, 3, 1, 1], "textureOffset": [0, 9]},
+                {"coordinates": [-4, 13, -0.7, 3, 1, 1], "textureOffset": [0, 9]},
+                {"coordinates": [-3, 12, -0.7, 1, 1, 1], "textureOffset": [7, 14]},
+                {"coordinates": [-3, 14, -0.5, 1, 1, 1], "textureOffset": [7, 14]}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/golden_dandelion"
+            },
+            {
+                "model": "minecraft:block/golden_dandelion2"
+            },
+            {
+                "model": "minecraft:block/golden_dandelion3"
+            },
+            {
+                "model": "minecraft:block/golden_dandelion4"
+            }
+        ]
+    }
+}

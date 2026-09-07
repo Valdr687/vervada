@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by Valdr687",
 	"parent": "minecraft:block/cross",
 	"textures": {
+		"particle": "block/crimson_fungus_block",
 		"cross": "block/crimson_fungus_block"
 	},
 	"elements": [

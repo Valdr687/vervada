@@ -21,22 +21,22 @@ Download it on Modrinth [![Latest][img-latest]][url-latest]
 - Randomized blocks
   - Randomized flower and flowers pots
   - Fully randomized bookshelves
-- 3D vegetables and crops, also available as a [separate ressource pack.](https://www.urbandictionary.com/define.php?term=soon%20%28tm%29)
+- 3D vegetables and crops, also available as a [separate ressource pack.](https://modrinth.com/resourcepack/3d-plants)
   - Bushy leaves
-  - 3D crops
+  - 3D crops & flowers
 - Custom models
   - Models for all doors and trapdoors
   - Realistic rails
 - Revamped GUI
   - Sleek Hotbar & Icons
   - Themed GUI
-- New blocks using double slabs also available as a [separate ressource pack.](https://modrinth.com/resourcepack/rgb-texture-pack)
+- New blocks using double slabs also available as a [separate ressource pack.](https://modrinth.com/resourcepack/vervadas-double-slabs)
 
 ### Specials features
 
 - 3D models / variants for most of entities
 - connected textures
-- customs barrel textures ( rename a barrel Barrel of wheat / gold / iron / copper / fish / coal )
+- customs barrel textures (rename a barrel Barrel of wheat / gold / iron / copper / fish / coal)
 
 Use Fabulously Optimized to access those feature, get it here : [download.fo](download.fo).
 
@@ -54,6 +54,10 @@ More images on [Modrinth](https://modrinth.com/resourcepack/the-vervada/gallery)
 - With help from :
   - MicrowaveIsMe : 3D Models
   - [\_victor.blanc_](https://www.instagram.com/_victor.blanc_/) : Custom paintings
+
+## Changelog
+
+Moved to [changelogs.md](./changelogs.md).
 
 ## License
 
@@ -87,56 +91,28 @@ ___
 |Wanderer|_The scream_|Edvard Munch|![Image](./assets/minecraft/textures/painting/wanderer.png)|
 |Wasteland|_Salvator Mundi_|Leonardo da Vinci|![Image](./assets/minecraft/textures/painting/wasteland.png)|
 |Wither|_Le seul oiseau qui vole au dessus des nuages_|André Devambez|![Image](./assets/minecraft/textures/painting/wither.png)|
-
-___
-
-## Changelog 6: Update #5
-
-- Added cherry doors and cherry trapdoors
-- Added cherry fence and cherry fence gate
-- Added cherry logs and double slabs
-- Added pink petals and cherry leaves
-- Added torchflower and torchflower
-- Added pitcher plant and pitcher crops
-- Added cherry sapling
-
-## Changelog 5: Update #4
-
-- Updated pack version
-- Added custom seagrass including several variants
-- Added cattails (feature exclusive to Optifine or to [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized))
-- 3D models now use cullface which allowed an huge fps boost (+2000% on my computer)
-- Deleted vines and glow lichen due to game side issues
-- Fixed broken path and gui
-- Added stonecutter
-
-## Changelog 4 : Minor patches and upgrades
-
-- Fixed smooth quartz double slabs & quartz double slabs
-- Improved ( red ) sandstone double slabs
-
-## Changelog 3 : Update #3
-
-- Added connected texture for grass block, sand, red sand, gravel, dirt, coarse dirt, concretes, terracotta, sandstone, red sandstone,.
-- Various bug patchs
-- Added custom gui for containers and achievements
-- Added bamboo trapdoors
-- Added bamboo planks / bamboo mosaic double slabs
-- Added bamboo doors
-- Added chiselled bookshelf
-
-## Changelog 2 : Update #2
-
-- Optimized all 3D models
-- added frogspawn
-- added goat horn
-
-## Changelog 1 : Update #1
-
-- patched cartography table / ores / crafting table / pumpkin / fletching table
-- patched pressure plates interacting with others 3d models
-- bushy leaves are now in another addon, with more optimized model ( on discord)
-- created a lighter version without the most common blocks ( on discord too )
+| Backyard | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/backyard.png) |
+| Baroque | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/baroque.png) |
+| Bouquet | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/bouquet.png) |
+| Cavebird | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/cavebird.png) |
+| Changing | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/changing.png) |
+| Cotan | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/cotan.png) |
+| Earth | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/earth.png) |
+| Endboss | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/endboss.png) |
+| Fern | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/fern.png) |
+| Finding | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/finding.png) |
+| Fire | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/fire.png) |
+| Lowmist | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/lowmist.png) |
+| Meditative | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/meditative.png) |
+| Orb | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/orb.png) |
+| Owlemons | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/owlemons.png) |
+| Passage | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/passage.png) |
+| Pond | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/pond.png) |
+| Prairie ride | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/prairie_ride.png) |
+| Sunflowers | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/sunflowers.png) |
+| Tides | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/tides.png) |
+| Water | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/water.png) |
+| Wind | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/wind.png) |
 
 <!-- URLs -->
 

@@ -1,11 +1,1 @@
-{
-  "variants": {
-    "": [ 
-{"model": "minecraft:block/plantes/red_mushroom"},
-{"model": "minecraft:block/plantes/red_mushroom1"},
-{"model": "minecraft:block/plantes/red_mushroom2"},
-{"model": "minecraft:block/plantes/red_mushroom3"},
-{"model": "minecraft:block/plantes/red_mushroom4"}
-    ]
-  }
-}
+{"variants":{"":[{"model":"minecraft:block/plantes/red_mushroom"},{"model":"minecraft:block/plantes/red_mushroom1"},{"model":"minecraft:block/plantes/red_mushroom2"},{"model":"minecraft:block/plantes/red_mushroom3"},{"model":"minecraft:block/plantes/red_mushroom4"}]}}

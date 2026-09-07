@@ -3,14 +3,13 @@
 	"parent": "minecraft:block/crop",
 	"textures": {
 		"1": "block/potatoes_stage1",
-		"crop": "block/potatoes_stage2",
-		"particle": "block/potatoes_stage1"
+		"particle": "block/potatoes_stage1",
+		"crop": "block/potatoes_stage2"
 	},
 	"elements": [
 		{
-			"from": [8, -1, 0],
-			"to": [8, 14, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1, 8]},
+			"from": [8.025, -1, 0.025],
+			"to": [8.025, 14, 16.025],
 			"faces": {
 				"east": {"uv": [0, 0, 16, 15], "texture": "#crop"},
 				"west": {"uv": [0, 0, 16, 15], "texture": "#crop"},
@@ -19,9 +18,8 @@
 			}
 		},
 		{
-			"from": [0, -1, 8],
-			"to": [16, 14, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1, 8]},
+			"from": [0.025, -1, 8.025],
+			"to": [16.025, 14, 8.025],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 15], "texture": "#crop"},
 				"east": {"uv": [0, 0, 16, 15], "texture": "#crop"},
@@ -30,9 +28,8 @@
 			}
 		},
 		{
-			"from": [6.925, -2, 6.925],
-			"to": [9.025, 0, 9.025],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
+			"from": [6.95, -2, 6.95],
+			"to": [9.05, 0, 9.05],
 			"faces": {
 				"north": {"uv": [2, 0, 4, 2], "texture": "#1"},
 				"east": {"uv": [0, 0, 2, 2], "texture": "#1"},

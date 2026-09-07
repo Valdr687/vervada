@@ -1,16 +1,1 @@
-{
-  "variants": {
-    "half=lower": [
-	{"model": "minecraft:block/rose_bush_bottom"},
-	{"model": "minecraft:block/rose_bush_bottom2"},
-	{"model": "minecraft:block/rose_bush_bottom3"},
-	{"model": "minecraft:block/rose_bush_bottom4"}
-    ],
-    "half=upper": [ 
-	{"model": "minecraft:block/rose_bush_top"},
-	{"model": "minecraft:block/rose_bush_top2"},
-	{"model": "minecraft:block/rose_bush_top3"},
-	{"model": "minecraft:block/rose_bush_top4"}
-    ]
-  }
-}
+{"variants":{"half=lower":[{"model":"minecraft:block/rose_bush_bottom"},{"model":"minecraft:block/rose_bush_bottom2"},{"model":"minecraft:block/rose_bush_bottom3"},{"model":"minecraft:block/rose_bush_bottom4"}],"half=upper":[{"model":"minecraft:block/rose_bush_top"},{"model":"minecraft:block/rose_bush_top2"},{"model":"minecraft:block/rose_bush_top3"},{"model":"minecraft:block/rose_bush_top4"}]}}

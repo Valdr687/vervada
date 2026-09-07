@@ -1,14 +1,1 @@
-{
-  "variants": {
-    "": [
-{"model": "minecraft:block/potted_white_tulip"},
-{"model": "minecraft:block/potted_white_tulip", "y":90},
-{"model": "minecraft:block/potted_white_tulip", "y":180},
-{"model": "minecraft:block/potted_white_tulip", "y":270},
-{"model": "minecraft:block/potted_white_tulip45"},
-{"model": "minecraft:block/potted_white_tulip45", "y":90},
-{"model": "minecraft:block/potted_white_tulip45", "y":180},
-{"model": "minecraft:block/potted_white_tulip45", "y":270}
-     ]
-  }
-}
+{"variants":{"":[{"model":"minecraft:block/potted_white_tulip"},{"model":"minecraft:block/potted_white_tulip","y":90},{"model":"minecraft:block/potted_white_tulip","y":180},{"model":"minecraft:block/potted_white_tulip","y":270},{"model":"minecraft:block/potted_white_tulip45"},{"model":"minecraft:block/potted_white_tulip45","y":90},{"model":"minecraft:block/potted_white_tulip45","y":180},{"model":"minecraft:block/potted_white_tulip45","y":270}]}}

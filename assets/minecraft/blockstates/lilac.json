@@ -1,11 +1,1 @@
-{
-  "variants": {
-    "half=lower": [
-	{"model": "minecraft:block/lilac_bottom"},
-	{"model": "minecraft:block/lilac_bottom2"}
-    ],
-    "half=upper": [ 
-	{"model": "minecraft:block/lilac_top"},
-	{"model": "minecraft:block/lilac_top2"}]
-  }
-}
+{"variants":{"half=lower":[{"model":"minecraft:block/lilac_bottom"},{"model":"minecraft:block/lilac_bottom2"}],"half=upper":[{"model":"minecraft:block/lilac_top"},{"model":"minecraft:block/lilac_top2"}]}}

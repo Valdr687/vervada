@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by Valdr687",
 	"ambientocclusion": false,
 	"textures": {
-		"4": "block/pitcher_crop_bottom_stage_1_part",
-		"5": "block/pitcher_crop_bottom_stage_1_part2",
+		"4": "block/pitcher_crop_bottom_stage_2_part1",
+		"5": "block/pitcher_crop_bottom_stage_2_part2",
 		"particle": "block/pitcher_crop_top",
 		"pitcher_top": "block/pitcher_crop_top",
 		"pitcher_side": "block/pitcher_crop_side",

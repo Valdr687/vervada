@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:block/fence_inventory",
-  "textures": {
-    "texture": "minecraft:block/stripped_warped_stem"
-  }
-}
+{"parent":"minecraft:block/fence_inventory","textures":{"texture":"minecraft:block/stripped_warped_stem"}}

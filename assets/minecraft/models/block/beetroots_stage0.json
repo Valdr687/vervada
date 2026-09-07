@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by Valdr687",
 	"parent": "minecraft:block/crop",
 	"textures": {
+		"particle": "block/beetroots_stage0",
 		"crop": "block/beetroots_stage0"
 	},
 	"elements": [

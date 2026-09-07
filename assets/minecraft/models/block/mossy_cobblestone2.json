@@ -1,8 +1,1 @@
-{
-    "parent": "block/cube_all",
-    "textures": 
-    {
-        "all":"block/mossy_cobblestone2"
-    } 
-    
-}
+{"parent":"block/cube_all","textures":{"all":"block/mossy_cobblestone2"}}

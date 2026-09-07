@@ -3,7 +3,7 @@
 	"parent": "minecraft:block/flower_pot_cross",
 	"textures": {
 		"1": "block/poppy_block",
-		"particle": "block/poppy_block",
+		"particle": "block/flower_pot",
 		"flowerpot": "block/flower_pot",
 		"dirt": "block/podzol_top"
 	},
@@ -63,7 +63,6 @@
 		{
 			"from": [7.5, 4, 7.5],
 			"to": [8.5, 11, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 4, 0]},
 			"faces": {
 				"north": {"uv": [8, 9, 9, 16], "texture": "#1"},
 				"east": {"uv": [8, 9, 9, 16], "texture": "#1"},
@@ -93,7 +92,6 @@
 		{
 			"from": [6.5, 11.025, 6.5],
 			"to": [9.5, 11.025, 9.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
 			"faces": {
 				"up": {"uv": [0, 0, 3, 3], "texture": "#1"},
 				"down": {"uv": [0, 0, 3, 3], "texture": "#1"}

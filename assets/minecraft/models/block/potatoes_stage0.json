@@ -1,6 +1,8 @@
 {
-  "parent": "minecraft:block/crop0",
-  "textures": {
-    "crop": "minecraft:block/potatoes_stage0"
-  }
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/crop0",
+	"textures": {
+		"particle": "block/potatoes_stage0",
+		"crop": "block/potatoes_stage0"
+	}
 }

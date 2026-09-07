@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by Valdr687",
 	"parent": "minecraft:block/cross",
 	"textures": {
+		"particle": "block/crimson_fungus_block",
 		"cross": "block/crimson_fungus_block"
 	},
 	"elements": [
@@ -31,7 +32,6 @@
 		{
 			"from": [4, 7, 4],
 			"to": [12, 8, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [1, 0, 9, 1], "texture": "#cross"},
 				"east": {"uv": [1, 0, 9, 1], "texture": "#cross"},

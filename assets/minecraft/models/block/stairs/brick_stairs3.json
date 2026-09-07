@@ -1,8 +1,1 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "minecraft:block/bricks3",
-    "top": "minecraft:block/bricks3",
-    "side": "minecraft:block/bricks3"
-  }
-}
+{"parent":"minecraft:block/stairs","textures":{"bottom":"minecraft:block/bricks3","top":"minecraft:block/bricks3","side":"minecraft:block/bricks3"}}

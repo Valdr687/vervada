@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by Valdr687",
 	"parent": "minecraft:block/cross",
 	"textures": {
+		"particle": "block/torchflower_crop_stage0",
 		"cross": "block/torchflower_crop_stage0"
 	},
 	"elements": [

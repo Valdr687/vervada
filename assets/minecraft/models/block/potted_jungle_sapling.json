@@ -3,7 +3,7 @@
 	"parent": "minecraft:block/flower_pot_cross",
 	"textures": {
 		"0": "block/jungle_sapling_block",
-		"particle": "block/jungle_sapling_block",
+		"particle": "block/flower_pot",
 		"flowerpot": "block/flower_pot",
 		"dirt": "block/podzol_top"
 	},
@@ -63,7 +63,6 @@
 		{
 			"from": [7.5, 4, 7.5],
 			"to": [8.5, 17, 8.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 4, 0]},
 			"faces": {
 				"north": {"uv": [15.5, 9.5, 16, 16], "texture": "#0"},
 				"east": {"uv": [15.5, 9.5, 16, 16], "texture": "#0"},
@@ -92,7 +91,6 @@
 		{
 			"from": [3.5, 16.5, 3.5],
 			"to": [11.5, 16.5, 11.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 4, 0]},
 			"faces": {
 				"up": {"uv": [8.5, 0, 12.5, 4], "texture": "#0"},
 				"down": {"uv": [8.5, 0, 12.5, 4], "texture": "#0"}
@@ -101,7 +99,6 @@
 		{
 			"from": [4, 16.525, 4],
 			"to": [11, 17.025, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 4, 0]},
 			"faces": {
 				"north": {"uv": [12.5, 0, 16, 0.5], "texture": "#0"},
 				"east": {"uv": [12.5, 0, 16, 0.5], "texture": "#0"},
@@ -141,7 +138,6 @@
 		{
 			"from": [9.5, 13, 9.5],
 			"to": [13.5, 13, 13.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 4, 0]},
 			"faces": {
 				"up": {"uv": [10, 4, 12, 6], "texture": "#0"},
 				"down": {"uv": [10, 4, 12, 6], "texture": "#0"}
@@ -150,7 +146,6 @@
 		{
 			"from": [2.5, 14, 2.5],
 			"to": [6.5, 14, 6.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 4, 0]},
 			"faces": {
 				"up": {"uv": [10, 4, 12, 6], "texture": "#0"},
 				"down": {"uv": [10, 4, 12, 6], "texture": "#0"}

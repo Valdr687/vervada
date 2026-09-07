@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by Valdr687",
 	"parent": "minecraft:block/cross",
 	"textures": {
+		"particle": "block/brown_mushroom_blocki",
 		"cross": "block/brown_mushroom_blocki"
 	},
 	"elements": [
