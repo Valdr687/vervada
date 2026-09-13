@@ -6,7 +6,7 @@
 
 ## Blocks
 
-- [ ] **Poplar set**: Door (fix bottom)
+- [ ] **Poplar set**: Doors
 - [ ] **Decorated pots**
 - [ ] **Blocks**: Hanging Signs (needs custom models for *all* wood types).
 - [ ] Bell
