@@ -1,7 +1,1 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "minecraft:block/double/bamboo_mosaic_double_end",
-    "side": "minecraft:block/double/bamboo_mosaic_double"
-  }
-}
+{"parent":"block/cube_column","textures":{"end":"block/double/bamboo_mosaic_double_end","side":"block/double/bamboo_mosaic_double"}}

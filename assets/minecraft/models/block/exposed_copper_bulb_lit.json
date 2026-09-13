@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:block/template_copper_bulb",
-  "textures": {
-    "all": "minecraft:block/exposed_copper_bulb_lit"
-  }
-}
+{"format_version":"1.21.11","credit":"Made with Blockbench by Valdr687","parent":"block/template_copper_bulb","textures":{"all":"block/exposed_copper_bulb_lit"}}

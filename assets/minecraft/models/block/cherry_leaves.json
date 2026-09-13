@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/leaves","textures":{"all":"minecraft:block/cherry_leaves","bottom":"minecraft:block/cherry_leaves_bottom","top":"minecraft:block/cherry_leaves_top","particle":"minecraft:block/cherry_leaves"}}
+{"format_version":"1.21.11","credit":"Made with Blockbench by Valdr687","parent":"block/leaves","textures":{"particle":"block/cherry_leaves","all":"block/cherry_leaves","bottom":"block/cherry_leaves_bottom","top":"block/cherry_leaves_top"}}

@@ -1,8 +1,1 @@
-{
-    "parent": "block/slab_top",
-    "textures": {
-        "bottom": "block/dirt",
-        "top": "block/dirt",
-        "side": "block/dirt"
-    }
-}
+{"format_version":"1.21.11","credit":"Made with Blockbench by Valdr687","parent":"block/slab_top","textures":{"bottom":"block/dirt"}}

@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/double/oxidized_cut_copper_double"
-  }
-}
+{"parent":"block/cube_all","textures":{"all":"block/double/oxidized_cut_copper_double"}}

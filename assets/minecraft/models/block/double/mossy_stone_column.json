@@ -1,7 +1,1 @@
-{
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "block/double/moassy_stone_column_bottom",
-        "side": "block/double/moassy_stone_column"
-    }
-}
+{"parent":"block/cube_column","textures":{"end":"block/double/moassy_stone_column_bottom","side":"block/double/moassy_stone_column"}}

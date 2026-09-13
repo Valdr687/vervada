@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_fence_gate","textures":{"texture":"minecraft:block/stripped_birch_log"}}
+{"format_version":"1.21.11","credit":"Made with Blockbench by Valdr687","parent":"block/template_fence_gate","textures":{"texture":"block/stripped_birch_log"}}

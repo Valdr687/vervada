@@ -1,6 +1,1 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/double/cinnabar"
-    }
-}
+{"parent":"block/cube_all","textures":{"all":"block/double/cinnabar"}}

@@ -1,7 +1,1 @@
-{
-    "parent": "minecraft:block/template_torch",
-    "textures": {
-        "torch": "block/torch",
-        "1": "block/torch_fire"
-    }
-}
+{"parent":"block/template_torch","textures":{"1":"block/torch_fire","torch":"block/torch"}}

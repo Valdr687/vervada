@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:block/template_copper_bulb",
-  "textures": {
-    "all": "minecraft:block/weathered_copper_bulb"
-  }
-}
+{"parent":"block/template_copper_bulb","textures":{"all":"block/weathered_copper_bulb"}}

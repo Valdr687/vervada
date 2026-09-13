@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/glass_pane_template","textures":{"pane":"minecraft:block/green_stained_glass","edge":"minecraft:block/green_stained_glass_pane_top"}}
+{"parent":"item/glass_pane_template","textures":{"pane":"block/green_stained_glass","edge":"block/green_stained_glass_pane_top"}}

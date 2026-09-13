@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/slab_top","textures":{"bottom":"minecraft:block/bricks3","top":"minecraft:block/bricks3","side":"minecraft:block/bricks3"}}
+{"parent":"block/slab_top","textures":{"bottom":"block/bricks3","top":"block/bricks3","side":"block/bricks3"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:block/cube_all_v",
-    "textures": {
-        "all": "minecraft:block/pale_oak_planks"
-    }
-}
+{"parent":"block/cube_all_v","textures":{"all":"block/pale_oak_planks"}}

@@ -1,7 +1,1 @@
-{
-    "parent": "minecraft:block/template_torch",
-    "textures": {
-        "torch": "minecraft:block/copper_torch",
-        "1": "block/copper_torch_fire"
-    }
-}
+{"format_version":"1.21.11","credit":"Made with Blockbench by Valdr687","parent":"block/template_torch","textures":{"1":"block/copper_torch_fire","torch":"block/copper_torch"}}

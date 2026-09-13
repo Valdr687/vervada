@@ -1,6 +1,1 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/double/prismarine_bricks_double"
-    }
-}
+{"parent":"block/cube_all","textures":{"all":"block/double/prismarine_bricks_double"}}

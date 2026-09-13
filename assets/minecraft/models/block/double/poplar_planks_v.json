@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:block/cube_all_v",
-    "textures": {
-        "all": "minecraft:block/poplar_planks"
-    }
-}
+{"parent":"block/cube_all_v","textures":{"all":"block/poplar_planks"}}

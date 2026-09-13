@@ -1,7 +1,1 @@
-{
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "block/double/red_cut_sandstone_column_top",
-        "side": "block/double/red_cut_sandstone_column_side"
-    }
-}
+{"parent":"block/cube_column","textures":{"end":"block/double/red_cut_sandstone_column_top","side":"block/double/red_cut_sandstone_column_side"}}

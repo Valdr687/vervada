@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/leaves","textures":{"all":"minecraft:block/mangrove_leaves","bottom":"minecraft:block/mangrove_leaves_bottom","top":"minecraft:block/mangrove_leaves_top","particle":"minecraft:block/mangrove_leaves"}}
+{"format_version":"1.21.11","credit":"Made with Blockbench by Valdr687","parent":"block/leaves","textures":{"particle":"block/mangrove_leaves","all":"block/mangrove_leaves","bottom":"block/mangrove_leaves_bottom","top":"block/mangrove_leaves_top"}}

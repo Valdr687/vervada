@@ -1,6 +1,1 @@
-{
-    "parent": "block/cube_all_v",
-    "textures": {
-        "all": "block/dark_oak_planks"
-    }
-}
+{"parent":"block/cube_all_v","textures":{"all":"block/dark_oak_planks"}}

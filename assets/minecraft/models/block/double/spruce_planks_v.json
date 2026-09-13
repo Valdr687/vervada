@@ -1,6 +1,1 @@
-{
-    "parent": "block/cube_all_v",
-    "textures": {
-        "all": "block/spruce_planks"
-    }
-}
+{"parent":"block/cube_all_v","textures":{"all":"block/spruce_planks"}}

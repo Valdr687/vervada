@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/leaves","textures":{"all":"minecraft:block/oak_leaves","bottom":"minecraft:block/oak_leaves_bottom","top":"minecraft:block/oak_leaves_top","particle":"minecraft:block/oak_leaves"}}
+{"format_version":"1.21.11","credit":"Made with Blockbench by Valdr687","parent":"block/leaves","textures":{"particle":"block/oak_leaves","all":"block/oak_leaves","bottom":"block/oak_leaves_bottom","top":"block/oak_leaves_top"}}

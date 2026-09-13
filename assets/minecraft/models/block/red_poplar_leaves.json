@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/leaves","textures":{"all":"minecraft:block/red_poplar_leaves","bottom":"minecraft:block/red_poplar_leaves_bottom","top":"minecraft:block/red_poplar_leaves_top","particle":"minecraft:block/red_poplar_leaves"}}
+{"format_version":"1.21.11","credit":"Made with Blockbench by Valdr687","parent":"block/leaves","textures":{"particle":"block/red_poplar_leaves","all":"block/red_poplar_leaves","bottom":"block/red_poplar_leaves_bottom","top":"block/red_poplar_leaves_top"}}
