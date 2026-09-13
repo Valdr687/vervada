@@ -29,7 +29,7 @@
 - Added copper gate
 - Added creaking heart
 - Added copper torch
-- Added poplar wood (log, stripped log, fence, fence gate, trapdoor)
+- Added poplar wood (log, stripped log, fence, fence gate, door, trapdoor)
 - Added pale oak wood (log, stripped log, fence, fence gate, door, trapdoor)
 - Added warm and cold pig
 - Added warm chicken
