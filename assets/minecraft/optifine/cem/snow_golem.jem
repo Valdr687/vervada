@@ -1,5 +1,5 @@
 {
-	"texture": "textures/entity/snow_golem.png",
+	"texture": "optifine/cem/textures/snow_golem.png",
 	"textureSize": [64, 64],
 	"models": [
 		{
