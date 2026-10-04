@@ -1,14 +1,1 @@
-{
-  "variants": {
-    "": [
-{"model": "minecraft:block/potted_warped_roots"},
-{"model": "minecraft:block/potted_warped_roots", "y":90},
-{"model": "minecraft:block/potted_warped_roots", "y":180},
-{"model": "minecraft:block/potted_warped_roots", "y":270},
-{"model": "minecraft:block/potted_warped_roots45"},
-{"model": "minecraft:block/potted_warped_roots45", "y":90},
-{"model": "minecraft:block/potted_warped_roots45", "y":180},
-{"model": "minecraft:block/potted_warped_roots45", "y":270}
-     ]
-  }
-}
+{"variants":{"":[{"model":"minecraft:block/potted_warped_roots"},{"model":"minecraft:block/potted_warped_roots","y":90},{"model":"minecraft:block/potted_warped_roots","y":180},{"model":"minecraft:block/potted_warped_roots","y":270},{"model":"minecraft:block/potted_warped_roots45"},{"model":"minecraft:block/potted_warped_roots45","y":90},{"model":"minecraft:block/potted_warped_roots45","y":180},{"model":"minecraft:block/potted_warped_roots45","y":270}]}}

@@ -1,6 +1,7 @@
 {
-	"texture": "./textures/sheep.png",
+	"credit": "Made with Blockbench",
 	"textureSize": [64, 32],
+	"texture": "textures/entity/sheep.png",
 	"models": [
 		{
 			"part": "body",

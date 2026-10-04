@@ -1,8 +1,1 @@
-{
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "block/sandstone1",
-        "top": "block/sandstone_top",
-        "side": "block/sandstone1"
-    }
-}
+{"parent":"block/cube_bottom_top","textures":{"bottom":"block/sandstone1","top":"block/sandstone_top","side":"block/sandstone1"}}

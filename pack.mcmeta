@@ -1,6 +1,9 @@
 {
-   "pack": {
-      "pack_format": 15,
-      "description": "Made by builders for builders"
-   }
+  "pack": {
+    "description": "Made by builders for builders",
+    "min_format": 64,
+    "max_format": 96,
+    "pack_format": 96,
+    "supported_formats": { "min_inclusive": 64, "max_inclusive": 96 }
+  }
 }

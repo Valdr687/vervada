@@ -1,9 +1,1 @@
-{
-  "parent": "minecraft:block/leaves",
-  "textures": {
-    "all": "minecraft:block/spruce_leaves",
-    "bottom": "minecraft:block/spruce_leaves_bottom",
-    "top": "minecraft:block/spruce_leaves_top",
-    "particle": "minecraft:block/spruce_leaves"
-  }
-}
+{"parent":"block/leaves","textures":{"all":"block/spruce_leaves","bottom":"block/spruce_leaves_bottom","top":"block/spruce_leaves_top","particle":"block/spruce_leaves"}}

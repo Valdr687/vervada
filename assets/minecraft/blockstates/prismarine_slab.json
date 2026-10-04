@@ -4,7 +4,7 @@
       "model": "minecraft:block/prismarine_slab"
     },
     "type=double": {
-      "model": "minecraft:block/prismarine_double"
+      "model": "minecraft:block/double/prismarine_double"
     },
     "type=top": {
       "model": "minecraft:block/prismarine_slab_top"

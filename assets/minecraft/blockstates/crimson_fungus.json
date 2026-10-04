@@ -1,11 +1,1 @@
-{
-  "variants": {
-    "": [ 
-{"model": "minecraft:block/crimson_fungus"},
-{"model": "minecraft:block/crimson_fungus1"},
-{"model": "minecraft:block/crimson_fungus2"},
-{"model": "minecraft:block/crimson_fungus3"},
-{"model": "minecraft:block/crimson_fungus4"}
-    ]
-  }
-}
+{"variants":{"":[{"model":"minecraft:block/crimson_fungus"},{"model":"minecraft:block/crimson_fungus1"},{"model":"minecraft:block/crimson_fungus2"},{"model":"minecraft:block/crimson_fungus3"},{"model":"minecraft:block/crimson_fungus4"}]}}
