@@ -16,16 +16,9 @@
 
 ## GUI
 
-- [ ] **GUI**: Report Player UI checkbox/tooltip overflow, Debug screen, Demo mode UI, Creative Inventory, Spectator UI, Controls, Settings menu, Friends List, Multiplayer Options.
-
-### Additions
-- [ ] **HUD**: Locator Bar.
-- [ ] **Menus**: UI Dialog system (`dialog` popups and description formatting).
-- [ ] **Icons**: Falling leaf particle sprites, End Flash visual effect.
-
-### Changes
-- [ ] **HUD**: Stopwatch/Timer HUD elements.
-- [ ] **Menus**: Chat Drafts, Server Code of Conduct, Social Interactions, Options/Settings, Controls screen, Creative Mode inventory tabs.
+- [ ] **Curseurs** (FOV, volume…) : jamais faits, `sprites/widget/slider.png`, `slider_highlighted.png`, `slider_handle.png`, `slider_handle_highlighted.png` (+ `.mcmeta`).
+- Crafter
+- Nautilus (`container/nautilus.png` + icônes `sprites/container/slot/nautilus_armor*.png`)
 
 ## Ideas
 
