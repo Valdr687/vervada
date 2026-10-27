@@ -2,6 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench by Valdr687",
 	"textures": {
+		"particle": "block/poplar_door_bottom",
 		"0": "block/doors/poplar_door_extra",
 		"1": "block/doors/poplar_door_side",
 		"2": "block/poplar_door_top",
