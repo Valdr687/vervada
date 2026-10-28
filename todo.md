@@ -1,4 +1,4 @@
-# The Vervada (Main Pack) - Migration & Missing Features To-Do
+# The Vervada To-Do
 
 ## Items
 
@@ -8,9 +8,10 @@
 
 - [ ] **Decorated pots**
 
-## Entities
+## Entities 
 
-- [ ] **Paintings**: 20 new Tricky Trials paintings (Meditative, Prairie Ride, Baroque, Humble, Unpacked, Bouquet, Cavebird, Cotán, Endboss, Fern, Owlemons, Sunflowers, Tides, Backyard, Pond, Changing, Finding, Lowmist, Passage, Orb).
+- [x] Bouquet
+- [x] Fern
 
 ## Ideas
 

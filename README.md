@@ -91,28 +91,27 @@ ___
 |Wanderer|_The scream_|Edvard Munch|![Image](./assets/minecraft/textures/painting/wanderer.png)|
 |Wasteland|_Salvator Mundi_|Leonardo da Vinci|![Image](./assets/minecraft/textures/painting/wasteland.png)|
 |Wither|_Le seul oiseau qui vole au dessus des nuages_|André Devambez|![Image](./assets/minecraft/textures/painting/wither.png)|
-| Backyard | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/backyard.png) |
-| Baroque | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/baroque.png) |
-| Bouquet | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/bouquet.png) |
-| Cavebird | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/cavebird.png) |
-| Changing | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/changing.png) |
-| Cotan | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/cotan.png) |
-| Earth | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/earth.png) |
-| Endboss | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/endboss.png) |
-| Fern | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/fern.png) |
-| Finding | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/finding.png) |
-| Fire | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/fire.png) |
-| Lowmist | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/lowmist.png) |
-| Meditative | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/meditative.png) |
-| Orb | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/orb.png) |
-| Owlemons | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/owlemons.png) |
-| Passage | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/passage.png) |
-| Pond | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/pond.png) |
-| Prairie ride | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/prairie_ride.png) |
-| Sunflowers | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/sunflowers.png) |
-| Tides | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/tides.png) |
-| Water | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/water.png) |
-| Wind | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/wind.png) |
+|Backyard|_Une Rue à Nice_|Rémy Cogghe|![Image](./assets/minecraft/textures/painting/backyard.png)|
+|Baroque|_Le Port de Marseille_|Albert Marquet| ![Image](./assets/minecraft/textures/painting/baroque.png) |
+|Bouquet|_Le Chenal de Gravelines, soir_|Georges Seurat|![Image](./assets/minecraft/textures/painting/bouquet.png)|
+|Cavebird|_Fukuroi, Open-Air Teahouse_|Utagawa Hiroshige|![Image](./assets/minecraft/textures/painting/cavebird.png)|
+|Changing|_Album of Insects and Other Creatures: Winter_|Mashiyama Sessai|![Image](./assets/minecraft/textures/painting/changing.png)|
+|Cotan|_Coucher de soleil à Akashi_|Ito Shinsui| ![Image](./assets/minecraft/textures/painting/cotan.png) |
+|Dennis|_La Grand'place de Roubaix sous la neige_|Ferdinand Schmidt|![Image](./assets/minecraft/textures/painting/dennis.png)|
+|Endboss|_Kameyama, Clear Weather after Snow_|Utagawa Hiroshige|![Image](./assets/minecraft/textures/painting/endboss.png)|
+|Fern|_Soleil couchant, temps brumeux, Pourville_|Claude Monet|![Image](./assets/minecraft/textures/painting/fern.png)|
+|Finding|_Station de bateaux à vapeur en Norvège_|Frithjof Smith-Hald|![Image](./assets/minecraft/textures/painting/finding.png)|
+| Humble | _New name_ | Artist | ![Image](./assets/minecraft/textures/painting/humble.png) |
+|Lowmist|_Port-Marly, gelée blanche_|Alfred Sisley|![Image](./assets/minecraft/textures/painting/lowmist.png)|
+|Meditative|_Crâne et fémur humain dans une niche_|Bartholomaeus Bruyn the Elder|![Image](./assets/minecraft/textures/painting/meditative.png)|
+|Orb|_Vétheuil le matin_|Claude Monet|![Image](./assets/minecraft/textures/painting/orb.png)|
+|Owlemons|_Retour des bateaux à Yabase en fin de journée_|Ito Shinsui| ![Image](./assets/minecraft/textures/painting/owlemons.png) |
+|Passage|_Yoshida, Toyokawabashi Bridge_|Utagawa Hiroshige|![Image](./assets/minecraft/textures/painting/passage.png)|
+|Pond|_Venise_|Rémy Cogghe|![Image](./assets/minecraft/textures/painting/pond.png)|
+|Prairie ride|_Birds and Flowers of the Four Seasons ( detail )_|Okamoto Shūki|![Image](./assets/minecraft/textures/painting/prairie_ride.png)|
+|Sunflowers|_La Nuit étoilée_|Vincent van Gogh| ![Image](./assets/minecraft/textures/painting/sunflowers.png) |
+|Tides|_Le Quai au bois à Rouen_|Albert Lebourg|![Image](./assets/minecraft/textures/painting/tides.png)|
+|Unpacked|_Le Port de Camaret par ciel d'orage_|Eugène Boudin|![Image](./assets/minecraft/textures/painting/unpacked.png)|
 
 <!-- URLs -->
 
