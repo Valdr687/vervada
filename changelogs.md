@@ -21,7 +21,7 @@
 - Added copper trapdoors (all oxidation stages)
 - Added crafter block
 - Added copper bulb textures (all oxidation stages and power states)
-- Added all modern paintings (23 paintings from 1.21+)
+- Added modern paintings
 - Added oak hanging sign CEM model
 - Added emissive texture for open eyeblossom
 - Added shelves
